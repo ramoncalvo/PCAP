@@ -37,3 +37,14 @@ print(type(1J))
 <type 'complex'>
 
 --------
+
+Which one of the folowing is true?
+- modules can containn packages
+- packages can contain modules ***
+- modules can contain modules
+
+--------
+
+
+
+--------
